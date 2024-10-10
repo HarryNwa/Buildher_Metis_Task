@@ -1,3 +1,10 @@
+tx: 0xe73ca12a8f28cdb2e98e8a7595c760e36f098735bbab08e7db9342d0082be0b4
+
+deployed at: 0xaE8fbC7113B565EBf2A9db227437Bb4c3b706210
+
+gas: 591261
+
+
 # Using Scaffold-ETH 2 to deploy a dApp on Metis L2
 
 Follow this tutorial to create a quick dApp prototype and to deploy on Metis.
