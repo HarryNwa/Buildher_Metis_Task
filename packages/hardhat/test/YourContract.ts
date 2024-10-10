@@ -3,7 +3,6 @@ import { ethers } from "hardhat";
 import { YourContract } from "../typechain-types";
 
 describe("YourContract", function () {
-
   let yourContract: YourContract;
   before(async () => {
     const [owner] = await ethers.getSigners();
